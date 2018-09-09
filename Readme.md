@@ -7,6 +7,7 @@ Final ranking: 3308/7198 (54th percentile)
 
 
 Solution score history:
+
 | Version | Model Type           | Best Public AUC |
 | ------- | -------------------- | --------------- |
 | v01     | Logistic Regression  | 0.69096         |
