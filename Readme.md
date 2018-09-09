@@ -2,7 +2,8 @@ This is a sequence of solutions developed in working on <a href="">Kaggle's Home
 
 It began with a few easy-to-set-up models - logistic regression and neural networks in Keras - but eventually turned to using gradient-boosted trees, primarily through LightGBM.  The solutions are mostly written in Jupyter notebooks in Python, though the logistic regression and XGBoost solutions were in R.
 
-Final score: 0.78900
+Final private leaderboard score: 0.78900
+
 Final ranking: 3308/7198 (54th percentile)
 
 
